@@ -1,4 +1,4 @@
-//console app
+//sln
 
 using System;
 using System.Collections.Generic;
